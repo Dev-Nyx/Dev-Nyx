@@ -11,7 +11,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBday96&s=40&c=ff0000&bg=00000000&no=2&ff=digii&tb=Visitas%3A+&ta=" /></p> 
+
 </div>
       
 <br>
@@ -51,13 +51,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Dev-Nyx&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Dev-Nyx&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Nyx&layout=compact&font=Iosevka&langs_count=16&theme=radical"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-Nyx&layout=compact&font=Iosevka&langs_count=16&theme=radical"
   />
   <br><br>
   <img
@@ -82,6 +82,10 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
 </div>
 
 <br>
